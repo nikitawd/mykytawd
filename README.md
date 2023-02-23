@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/mykytawd/mykytawd/main/main.png)](https://white-digital.com)
+# [![waylon walker header](https://raw.githubusercontent.com/mykytawd/mykytawd/main/profile.png)](https://white-digital.com)
 
 <h3>TypeScript nerd and founder of an outsource company <a href="https://white-digital.com" target="_blank" rel="noreferrer">White Digital</a> 
 
