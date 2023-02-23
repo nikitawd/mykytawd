@@ -3,7 +3,7 @@
 <h3>Typescript nerd and founder of an outsource company <a href="https://white-digital.com" target="_blank" rel="noreferrer">White Digital</a> 
 
 </br>
-Originally from 🇺🇦 Ukraine, living in Poland 🇵🇱</h3>
+Originally from 🇺🇦 Ukraine, living in Poland 🇵🇱, Traveling across Europe 🇪🇺</h3>
 
 
 <h3>👨‍💻 See recent projects <a href="https://white-digital.com/projects" target="_blank" rel="noreferrer">here</a> 👈</h3>
