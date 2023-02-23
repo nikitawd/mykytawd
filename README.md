@@ -1,7 +1,5 @@
 # [![waylon walker header](https://raw.githubusercontent.com/mykytawd/mykytawd/main/main.png)](https://white-digital.com)
 
-<h2>Hey 👋, it's Nik</h2>
-
 <h3>Typescript nerd and founder of an outsource company <a href="https://white-digital.com" target="_blank" rel="noreferrer">White Digital</a> 
 
 </br>
