@@ -1,6 +1,6 @@
 # [![waylon walker header](https://raw.githubusercontent.com/mykytawd/mykytawd/main/main.png)](https://white-digital.com)
 
-<h3>Typescript nerd and founder of an outsource company <a href="https://white-digital.com" target="_blank" rel="noreferrer">White Digital</a> 
+<h3>TypeScript nerd and founder of an outsource company <a href="https://white-digital.com" target="_blank" rel="noreferrer">White Digital</a> 
 
 </br>
 Originally from 🇺🇦 Ukraine, living in Poland 🇵🇱, Traveling across Europe 🇪🇺</h3>
