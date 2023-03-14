@@ -6,7 +6,7 @@
 Originally from 🇺🇦 Ukraine, living in Poland 🇵🇱, Traveling across Europe 🇪🇺</h3>
 
 
-<h3>👨‍💻 See recent projects <a href="https://white-digital.com/projects" target="_blank" rel="noreferrer">here</a> 👈</h3>
+<h3>👨‍💻 See recent projects <a href="https://white-digital/#projects" target="_blank" rel="noreferrer">here</a> 👈</h3>
 
 
 <h3 align="left">🔧 Some technologies and tools I'm using:</h3>
